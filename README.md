@@ -1,3 +1,4 @@
-# git clone https://github.com/Pixn-hackers/spamer
+# git clone https://github.com/pian-hackers/spamer
 # cd spamer
 # python spamunlimid.py
+
