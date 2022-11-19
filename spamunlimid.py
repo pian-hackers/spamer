@@ -17,7 +17,7 @@ banner = f'''
 
 
 {m} [{k} ●{m} ]{p} Author :{k} ALPIXN-CEPMEK
-{m} [{k} ●{m} ]{p} Github :{a} https://github.com/Pixn-hackers
+{m} [{k} ●{m} ]{p} Github :{a} https://github.com/pian-hackers
 '''
 def wangsaf():
 	os.system('clear'); print(banner)
