@@ -7,17 +7,20 @@ ua = UserAgent().random
 ses = r.Session()
 banner = f'''
 
- ____ _____  ___   _     ____  ____   _    __  __
+  ____ _____  ___   _     ____  ____   _    __  __
 |  _ \_ _\ \/ / \ | |   / ___||  _ \ / \  |  \/  |
 | |_) | | \  /|  \| |   \___ \| |_) / _ \ | |\/| |
 |  __/| | /  \| |\  |    ___) |  __/ ___ \| |  | |
 |_|  |___/_/\_\_| \_|___|____/|_| /_/   \_\_|  |_|
                   |_____|  
    loʇuoʞ         ▶ ●────────          ♡      ර ̶͞ ̶͞ ̶͞ධ
-
-
-{m} [{k} ●{m} ]{p} Author :{k} ALPIXN-CEPMEK
-{m} [{k} ●{m} ]{p} Github :{a} https://github.com/pian-hackers
+               
+                    "\033[1;93minfo"  
+            spam tergantung sinyall 
+         ga ganteng gabisa masuk spam nya 
+_______________________________________________
+{m} {k} ♡{m} {p} Author :{k} ALPIXN-CEPMEK   |
+{m} {k} ♡{m} {p} Github :{a} https://github.com/pian-hackers
 '''
 def wangsaf():
 	os.system('clear'); print(banner)
