@@ -11,7 +11,9 @@ pip install requests
 pip install fake_useragent
 git clone https://github.com/pian-hackers/spamer
 cd spamer
-python spamunlimid.py
+ls
+git pull
+python pian.py
 ```
 <h2 align="center"> Example </h2>
 
