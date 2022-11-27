@@ -1,9 +1,7 @@
 <h2 align="center"> SPAMER SMS & WA </h2>
 <img src="https://github.com/pian-hackers/blob/984c1ebb7dcd4cd40e8a4746e91294c6656c3786/20221119-WA0067.jpg" />
 
-<h2 align="center"> Install </h2>
-
-<h2 align="center"> MAKE DOANG KAGA FOLLOW 
+<h2 align="center"> MAKE DOANG KAGA FOLLOW </h2>
 
 ```
 pkg update && pkg upgrade -y
