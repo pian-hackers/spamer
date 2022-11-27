@@ -3,7 +3,7 @@
 
 <h2 align="center"> Install </h2>
 
-MAKE DOANG KAGA FOLLOW
+#MAKE DOANG KAGA FOLLOW
 
 ```
 pkg update && pkg upgrade -y
